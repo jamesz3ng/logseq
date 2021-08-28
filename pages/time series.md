@@ -1,0 +1,5 @@
+- checklist
+	- TODO trends
+		- piecewise
+-
+	-
